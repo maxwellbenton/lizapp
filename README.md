@@ -9,6 +9,6 @@
 
 3) Created a form and events to trigger idb methods
   a) To add to indexDB, use idbKeyval.set(key, value)
-  b) To get a particular value pair from indexDB, use idbKeyval.get(key)
+  b) To get a particular value from indexDB, use idbKeyval.get(key)
   c) To clear, use idbKeyval(clear)
   d) To delete an item in the database, use idbKeyval.delete(id)
